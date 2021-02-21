@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.step-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 15px;
+  width: 100%;
+}
+.about-section {
+  float: left;
+  width: 100%;
+  margin: 20px 0;
+  text-align: center;
+}
+.about-section h2 {
+  font-size: 21px;
+  letter-spacing: 0.2px;
+}
+.step-form {
+  float: left;
+  width: 100%;
+}
+.step-form ol.progtrckr {
+  text-align: center;
+}
+ol.progtrckr li.progtrckr-doing:before {
+  background-color: #e6b3f1;
+}
+ol.progtrckr li:before {
+  bottom: -3.9rem;
+}
+ol.progtrckr li.progtrckr-doing {
+  border-bottom: 4px solid #e6b3f1;
+} 
+ol.progtrckr li.progtrckr-done:before {
+  background-color: #e592f6;
+}
+ol.progtrckr li.progtrckr-done {
+  border-bottom: 4px solid #e592f6;
+}
+ol.progtrckr li.progtrckr-doing:hover:before {
+  color: #ffffff;
+}
+ol.progtrckr li.progtrckr-done:hover:before {
+  color: #ffffff;
+}
+ol.progtrckr li.progtrckr-todo:hover:before {
+  color: silver;
+}
+.step-form h1 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 25px;
+  float: left;
+  width: 100%;
+}
+.step-form label {
+  font-weight: 400;
+  font-size: 11px;
+  margin-bottom: 4px;
+  color: #000;
+}
+.step-form .six.columns {
+  margin-bottom: 14px;
+}
+.step-form input.u-full-width {
+  font-size: 14px;
+}
+.ui.form.form-design .field label {
+  font-weight: 400;
+  font-size: 14px;
+  text-align: left;
+}
+.ui.form.form-design .field {
+  margin: 7px 0 !important;
+}
+body .ui.button {
+  background: #001f54;
+  color: #fff;
+  font-weight: 400;
+  margin-top: 15px;
+}
+.ui.button:hover {
+  background-color: #00326e !important;
+  color: #fff !important;
+}
+form.ui.form.form-design {
+  float: left;
+  width: 100%; 
+}
+h1.ui.centered, h1{
+  text-align: left;
+  font-size: 24px;
+  font-weight: 500;
+}
+.button-center {
+  text-align: center;
+}
+.ui.button:focus {
+  background-color: #00326e !important;
+  color: #fff !important;
+}
+.step-container h1 {
+  text-align: left;
+  font-size: 24px;
+  font-weight: 500;
+}
+.ui.table thead th {
+  font-weight: 600;
+  font-size: 14px;
+}
+.ui.container {
+  float: left;
+  width: 100%;
+  margin-top: 30px;
+}
+h1.ui.centered.thanks-msg {
+  text-align: center;
+  padding: 20px 0;
+  width: 100%;
+  background: #f1f1f1;
+  max-width: 500px;
+  margin: 0 auto;
+  display: table;
+}
+.logo img {
+    max-width: 300px;
+    width: 100%;
+}

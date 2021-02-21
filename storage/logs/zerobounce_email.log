@@ -1,0 +1,404 @@
+[2020-07-04 14:01:37] local.INFO: {"address":"mhuebner@enterprisefishco.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"mhuebner","domain":"enterprisefishco.com","domain_age_days":"6588","smtp_provider":null,"mx_found":"true","mx_record":"mail.enterprisefishco.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-04 14:01:46.453"}  
+[2020-07-06 07:41:04] local.INFO: {"address":"info@dirtdogla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"dirtdogla.com","domain_age_days":"2890","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-06 07:41:13.829"}  
+[2020-07-06 07:41:05] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3336","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-06 07:41:14.434"}  
+[2020-07-06 12:50:56] local.INFO: {"address":"mhuebner@enterprisefishco.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"mhuebner","domain":"enterprisefishco.com","domain_age_days":"6590","smtp_provider":null,"mx_found":"true","mx_record":"mail.enterprisefishco.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-06 12:51:05.711"}  
+[2020-07-06 12:50:56] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3336","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-06 12:51:06.363"}  
+[2020-07-07 06:02:30] local.INFO: {"address":"mhuebner@enterprisefishco.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"mhuebner","domain":"enterprisefishco.com","domain_age_days":"6591","smtp_provider":null,"mx_found":"true","mx_record":"mail.enterprisefishco.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:39.792"}  
+[2020-07-07 06:02:30] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3337","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:40.402"}  
+[2020-07-07 06:09:29] local.INFO: {"address":"mhuebner@enterprisefishco.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"mhuebner","domain":"enterprisefishco.com","domain_age_days":"6591","smtp_provider":null,"mx_found":"true","mx_record":"mail.enterprisefishco.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:39.792"}  
+[2020-07-07 06:09:29] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3337","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:40.402"}  
+[2020-07-07 06:10:57] local.INFO: {"address":"mhuebner@enterprisefishco.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"mhuebner","domain":"enterprisefishco.com","domain_age_days":"6591","smtp_provider":null,"mx_found":"true","mx_record":"mail.enterprisefishco.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:39.792"}  
+[2020-07-07 06:10:58] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3337","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:40.402"}  
+[2020-07-07 06:11:44] local.INFO: {"address":"mhuebner@enterprisefishco.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"mhuebner","domain":"enterprisefishco.com","domain_age_days":"6591","smtp_provider":null,"mx_found":"true","mx_record":"mail.enterprisefishco.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:39.792"}  
+[2020-07-07 06:11:44] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3337","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:40.402"}  
+[2020-07-07 06:14:17] local.INFO: {"address":"info@thebuntruck.com","status":"invalid","sub_status":"mailbox_not_found","free_email":false,"did_you_mean":null,"account":"info","domain":"thebuntruck.com","domain_age_days":"3337","smtp_provider":null,"mx_found":"true","mx_record":"thebuntruck.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:02:40.402"}  
+[2020-07-07 06:18:15] local.INFO: {"address":"info@dirtdogla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"dirtdogla.com","domain_age_days":"2891","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:18:24.909"}  
+[2020-07-07 06:18:16] local.INFO: {"address":"evelyn.ji@bcdtofu.com","status":"valid","sub_status":"","free_email":false,"did_you_mean":null,"account":"evelyn.ji","domain":"bcdtofu.com","domain_age_days":"6289","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:18:25.919"}  
+[2020-07-07 06:21:01] local.INFO: {"address":"evelyn.ji@bcdtofu.com","status":"valid","sub_status":"","free_email":false,"did_you_mean":null,"account":"evelyn.ji","domain":"bcdtofu.com","domain_age_days":"6289","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:18:25.919"}  
+[2020-07-07 06:25:10] local.INFO: {"address":"info@perchla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"perchla.com","domain_age_days":"3483","smtp_provider":null,"mx_found":"true","mx_record":"mx1.smtp.exch028.serverdata.net","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:25:19.779"}  
+[2020-07-07 06:25:10] local.INFO: {"address":"info@perchla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"perchla.com","domain_age_days":"3483","smtp_provider":null,"mx_found":"true","mx_record":"mx1.smtp.exch028.serverdata.net","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:25:19.779"}  
+[2020-07-07 06:25:10] local.INFO: {"address":"evelyn.ji@bcdtofu.com","status":"valid","sub_status":"","free_email":false,"did_you_mean":null,"account":"evelyn.ji","domain":"bcdtofu.com","domain_age_days":"6289","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:18:25.919"}  
+[2020-07-07 06:25:10] local.INFO: {"address":"evelyn.ji@bcdtofu.com","status":"valid","sub_status":"","free_email":false,"did_you_mean":null,"account":"evelyn.ji","domain":"bcdtofu.com","domain_age_days":"6289","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:18:25.919"}  
+[2020-07-07 06:25:11] local.INFO: {"address":"info@perchla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"perchla.com","domain_age_days":"3483","smtp_provider":null,"mx_found":"true","mx_record":"mx1.smtp.exch028.serverdata.net","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:25:19.779"}  
+[2020-07-07 06:25:11] local.INFO: {"address":"evelyn.ji@bcdtofu.com","status":"valid","sub_status":"","free_email":false,"did_you_mean":null,"account":"evelyn.ji","domain":"bcdtofu.com","domain_age_days":"6289","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:18:25.919"}  
+[2020-07-07 06:25:15] local.INFO: {"address":"info@perchla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"perchla.com","domain_age_days":"3483","smtp_provider":null,"mx_found":"true","mx_record":"mx1.smtp.exch028.serverdata.net","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:25:19.779"}  
+[2020-07-07 06:29:57] local.INFO: {"address":"info@perchla.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"perchla.com","domain_age_days":"3483","smtp_provider":null,"mx_found":"true","mx_record":"mx1.smtp.exch028.serverdata.net","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:25:19.779"}  
+[2020-07-07 06:29:58] local.INFO: {"address":"taquerialosanaya@gmail.com","status":"valid","sub_status":"","free_email":true,"did_you_mean":null,"account":"taquerialosanaya","domain":"gmail.com","domain_age_days":"9095","smtp_provider":"google","mx_found":"true","mx_record":"gmail-smtp-in.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:30:08.549"}  
+[2020-07-07 06:29:59] local.INFO: {"address":"hotchicken@howlinrays.com","status":"catch-all","sub_status":"","free_email":false,"did_you_mean":null,"account":"hotchicken","domain":"howlinrays.com","domain_age_days":"1910","smtp_provider":"microsoft","mx_found":"true","mx_record":"howlinrays-com.mail.protection.outlook.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:30:09.195"}  
+[2020-07-07 06:30:01] local.INFO: {"address":"customerservice@philippes.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"customerservice","domain":"philippes.com","domain_age_days":"8456","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:30:10.700"}  
+[2020-07-07 06:31:52] local.INFO: {"address":"info@almanagementgroup.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"almanagementgroup.com","domain_age_days":"1968","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:32:02.219"}  
+[2020-07-07 06:32:04] local.INFO: {"address":"info@emcseafood.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"emcseafood.com","domain_age_days":"2667","smtp_provider":null,"mx_found":"true","mx_record":"mail.emcseafood.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:32:13.684"}  
+[2020-07-07 06:32:04] local.INFO: {"address":"quarterskbbq@gmail.com","status":"valid","sub_status":"","free_email":true,"did_you_mean":null,"account":"quarterskbbq","domain":"gmail.com","domain_age_days":"9095","smtp_provider":"google","mx_found":"true","mx_record":"gmail-smtp-in.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:32:14.222"}  
+[2020-07-07 06:33:13] local.INFO: {"address":"taquerialosanaya@gmail.com","status":"valid","sub_status":"","free_email":true,"did_you_mean":null,"account":"taquerialosanaya","domain":"gmail.com","domain_age_days":"9095","smtp_provider":"google","mx_found":"true","mx_record":"gmail-smtp-in.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:30:08.549"}  
+[2020-07-07 06:35:34] local.INFO: {"address":"info@almanagementgroup.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"almanagementgroup.com","domain_age_days":"1968","smtp_provider":"g-suite","mx_found":"true","mx_record":"aspmx.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:32:02.219"}  
+[2020-07-07 06:35:34] local.INFO: {"address":"info@emcseafood.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"emcseafood.com","domain_age_days":"2667","smtp_provider":null,"mx_found":"true","mx_record":"mail.emcseafood.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:32:13.684"}  
+[2020-07-07 06:35:34] local.INFO: {"address":"quarterskbbq@gmail.com","status":"valid","sub_status":"","free_email":true,"did_you_mean":null,"account":"quarterskbbq","domain":"gmail.com","domain_age_days":"9095","smtp_provider":"google","mx_found":"true","mx_record":"gmail-smtp-in.l.google.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:32:14.222"}  
+[2020-07-07 06:35:55] local.INFO: {"address":"info@providencela.com","status":"do_not_mail","sub_status":"role_based","free_email":false,"did_you_mean":null,"account":"info","domain":"providencela.com","domain_age_days":"5691","smtp_provider":"rackspace","mx_found":"true","mx_record":"mx1.emailsrvr.com","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:36:05.193"}  
+[2020-07-07 06:36:59] local.INFO: {"address":"laresrest@aol.com","status":"valid","sub_status":"","free_email":true,"did_you_mean":null,"account":"laresrest","domain":"aol.com","domain_age_days":"9147","smtp_provider":"yahoo","mx_found":"true","mx_record":"mx-aol.mail.gm0.yahoodns.net","firstname":null,"lastname":null,"gender":null,"country":"United States","region":"Florida","city":"West Palm Beach","zipcode":"33401","processed_at":"2020-07-07 06:37:08.994"}  
+[2020-07-07 07:21:31] local.INFO: array (
+  'business_name' => 'Tokyo Style Food Truck and Catering',
+  'email' => 'mhuebner@enterprisefishco.com',
+  'status' => 'catch-all',
+)  
+[2020-07-07 07:21:31] local.INFO: array (
+  'business_name' => 'The Bun Shop',
+  'email' => 'info@thebuntruck.com',
+  'status' => 'invalid',
+)  
+[2020-07-07 07:21:51] local.INFO: array (
+  'business_name' => 'Tokyo Style Food Truck and Catering',
+  'email' => 'mhuebner@enterprisefishco.com',
+  'status' => 'catch-all',
+)  
+[2020-07-07 07:21:51] local.INFO: array (
+  'business_name' => 'The Bun Shop',
+  'email' => 'info@thebuntruck.com',
+  'status' => 'invalid',
+)  
+[2020-07-07 07:22:15] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-07 07:22:15] local.INFO: array (
+  'business_name' => 'The Bun Shop',
+  'email' => 'info@thebuntruck.com',
+  'status' => 'invalid',
+)  
+[2020-07-07 07:22:20] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-07 07:22:20] local.INFO: array (
+  'business_name' => 'The Bun Shop',
+  'email' => 'info@thebuntruck.com',
+  'status' => 'invalid',
+)  
+[2020-07-07 07:22:25] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-07 07:22:50] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-07 07:22:51] local.INFO: array (
+  'business_name' => 'BCD Tofu House',
+  'email' => 'evelyn.ji@bcdtofu.com',
+  'status' => 'valid',
+)  
+[2020-07-08 06:35:09] local.INFO: array (
+  'business_name' => 'Tokyo Style Food Truck and Catering',
+  'email' => 'mhuebner@enterprisefishco.com',
+  'status' => 'catch-all',
+)  
+[2020-07-08 06:35:09] local.INFO: array (
+  'business_name' => 'The Bun Shop',
+  'email' => 'info@thebuntruck.com',
+  'status' => 'invalid',
+)  
+[2020-07-08 06:41:17] local.INFO: array (
+  'business_name' => 'Tokyo Style Food Truck and Catering',
+  'email' => 'mhuebner@enterprisefishco.com',
+  'status' => 'catch-all',
+)  
+[2020-07-08 06:41:17] local.INFO: array (
+  'business_name' => 'The Bun Shop',
+  'email' => 'info@thebuntruck.com',
+  'status' => 'invalid',
+)  
+[2020-07-08 07:24:33] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-08 07:29:33] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-08 07:29:33] local.INFO: array (
+  'business_name' => 'BCD Tofu House',
+  'email' => 'evelyn.ji@bcdtofu.com',
+  'status' => 'valid',
+)  
+[2020-07-09 05:48:10] local.INFO: array (
+  'business_name' => 'Dirt Dog',
+  'email' => 'info@dirtdogla.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 05:48:10] local.INFO: array (
+  'business_name' => 'Papa Cristos',
+  'email' => 'annpapac@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 05:48:11] local.INFO: array (
+  'business_name' => 'Revolutionario: North African Tacos',
+  'email' => 'revolutionarioinc@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 05:56:29] local.INFO: array (
+  'business_name' => 'Yup Dduk LA',
+  'email' => 'info@almanagementgroup.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 05:56:41] local.INFO: array (
+  'business_name' => 'EMC Seafood & Raw Bar',
+  'email' => 'info@emcseafood.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 05:56:42] local.INFO: array (
+  'business_name' => 'Quarters Korean BBQ',
+  'email' => 'quarterskbbq@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 05:56:43] local.INFO: array (
+  'business_name' => 'Pasta Sisters',
+  'email' => 'info@pastasisters.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 05:56:44] local.INFO: array (
+  'business_name' => 'Guss World Famous Fried Chicken',
+  'email' => 'communications@gusfriedchicken.com',
+  'status' => 'catch-all',
+)  
+[2020-07-09 06:18:48] local.INFO: array (
+  'business_name' => 'Mooses Tooth',
+  'email' => 'dan.fiacco@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 06:18:49] local.INFO: array (
+  'business_name' => 'Snow City Cafe',
+  'email' => 'letitsnow@snowcitycafe.com',
+  'status' => 'valid',
+)  
+[2020-07-09 06:18:56] local.INFO: array (
+  'business_name' => 'Glacier BrewHouse',
+  'email' => 'info@glacierbrewhouse.com',
+  'status' => 'unknown',
+)  
+[2020-07-09 06:18:57] local.INFO: array (
+  'business_name' => 'Wild Scoops',
+  'email' => 'howard@hfwireless.com',
+  'status' => 'valid',
+)  
+[2020-07-09 06:18:58] local.INFO: array (
+  'business_name' => 'Simon & Seaforts Saloon & Grill',
+  'email' => 'eatdrinkearn@r-u-i.com',
+  'status' => 'catch-all',
+)  
+[2020-07-09 06:18:59] local.INFO: array (
+  'business_name' => 'Anchorage Museum',
+  'email' => 'museum@AnchorageMuseum.org',
+  'status' => 'unknown',
+)  
+[2020-07-09 06:19:00] local.INFO: array (
+  'business_name' => 'Pangea',
+  'email' => 'pangearestaurantandlounge@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 06:19:00] local.INFO: array (
+  'business_name' => 'Humpys Great Alaskan Alehouse',
+  'email' => 'bill-opinski@humpys.com',
+  'status' => 'invalid',
+)  
+[2020-07-09 06:19:02] local.INFO: array (
+  'business_name' => 'Spenard Roadhouse',
+  'email' => 'eatdrink@spenardroadhouse.com',
+  'status' => 'valid',
+)  
+[2020-07-09 06:24:53] local.INFO: {"business_name":"Mooses Tooth","email":"dan.fiacco@gmail.com","status":"valid"}  
+[2020-07-09 06:24:53] local.INFO: {"business_name":"Snow City Cafe","email":"letitsnow@snowcitycafe.com","status":"valid"}  
+[2020-07-09 06:24:53] local.INFO: {"business_name":"Glacier BrewHouse","email":"info@glacierbrewhouse.com","status":"unknown"}  
+[2020-07-09 06:24:54] local.INFO: {"business_name":"Wild Scoops","email":"howard@hfwireless.com","status":"valid"}  
+[2020-07-09 06:24:54] local.INFO: {"business_name":"Simon & Seaforts Saloon & Grill","email":"eatdrinkearn@r-u-i.com","status":"catch-all"}  
+[2020-07-09 06:24:54] local.INFO: {"business_name":"Anchorage Museum","email":"museum@AnchorageMuseum.org","status":"unknown"}  
+[2020-07-09 06:24:54] local.INFO: {"business_name":"Pangea","email":"pangearestaurantandlounge@gmail.com","status":"valid"}  
+[2020-07-09 06:24:54] local.INFO: {"business_name":"Humpys Great Alaskan Alehouse","email":"bill-opinski@humpys.com","status":"invalid"}  
+[2020-07-09 06:24:54] local.INFO: {"business_name":"Spenard Roadhouse","email":"eatdrink@spenardroadhouse.com","status":"valid"}  
+[2020-07-09 06:24:55] local.INFO: {"business_name":"Ginger","email":"ginger@gci.net","status":"valid"}  
+[2020-07-09 06:24:56] local.INFO: {"business_name":"Bear Tooth Theatre Pub","email":"beartoothspecialevents@gmail.com","status":"valid"}  
+[2020-07-09 06:25:00] local.INFO: {"business_name":"Haute Quarter Grill","email":"reservations@hautequartergrill.com","status":"do_not_mail"}  
+[2020-07-09 07:57:54] local.INFO: array (
+  'business_name' => 'Mooses Tooth',
+  'email' => 'dan.fiacco@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:57:54] local.INFO: array (
+  'business_name' => 'Snow City Cafe',
+  'email' => 'letitsnow@snowcitycafe.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:57:59] local.INFO: array (
+  'business_name' => 'Glacier BrewHouse',
+  'email' => 'info@glacierbrewhouse.com',
+  'status' => 'unknown',
+)  
+[2020-07-09 07:57:59] local.INFO: array (
+  'business_name' => 'Wild Scoops',
+  'email' => 'howard@hfwireless.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:00] local.INFO: array (
+  'business_name' => 'Simon & Seaforts Saloon & Grill',
+  'email' => 'eatdrinkearn@r-u-i.com',
+  'status' => 'catch-all',
+)  
+[2020-07-09 07:58:01] local.INFO: array (
+  'business_name' => 'Anchorage Museum',
+  'email' => 'museum@AnchorageMuseum.org',
+  'status' => 'unknown',
+)  
+[2020-07-09 07:58:01] local.INFO: array (
+  'business_name' => 'Pangea',
+  'email' => 'pangearestaurantandlounge@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:02] local.INFO: array (
+  'business_name' => 'Humpys Great Alaskan Alehouse',
+  'email' => 'bill-opinski@humpys.com',
+  'status' => 'invalid',
+)  
+[2020-07-09 07:58:02] local.INFO: array (
+  'business_name' => 'Spenard Roadhouse',
+  'email' => 'eatdrink@spenardroadhouse.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:03] local.INFO: array (
+  'business_name' => 'Ginger',
+  'email' => 'ginger@gci.net',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:04] local.INFO: array (
+  'business_name' => 'Bear Tooth Theatre Pub',
+  'email' => 'beartoothspecialevents@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:06] local.INFO: array (
+  'business_name' => 'Haute Quarter Grill',
+  'email' => 'reservations@hautequartergrill.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 07:58:07] local.INFO: array (
+  'business_name' => 'Club Paris',
+  'email' => 'clubparis@customcpu.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:08] local.INFO: array (
+  'business_name' => 'Great Harvest Bread - Anchorage',
+  'email' => 'greatharvestak@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:09] local.INFO: array (
+  'business_name' => 'Lucky Wishbone',
+  'email' => 'info@luckywishbone.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 07:58:10] local.INFO: array (
+  'business_name' => 'Sushi & Sushi',
+  'email' => 'sushiandsushiak@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:12] local.INFO: array (
+  'business_name' => 'The Red Chair Cafe',
+  'email' => 'feedback.box@theredchaircafe.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:13] local.INFO: array (
+  'business_name' => 'Roscoes Catfish & BBQ',
+  'email' => 'roscoewyche@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:14] local.INFO: array (
+  'business_name' => 'Charlies Bakery',
+  'email' => 'CharliesBakery@hotmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:25] local.INFO: array (
+  'business_name' => 'The Kobuk',
+  'email' => 'kobukco@alaska.net',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:26] local.INFO: array (
+  'business_name' => 'Originale',
+  'email' => 'originaleak@hotmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:27] local.INFO: array (
+  'business_name' => 'Fat Ptarmigan',
+  'email' => 'guyc@fatptarmigan.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:28] local.INFO: array (
+  'business_name' => 'Bridge Seafood',
+  'email' => 'marion@bridgeseafood.com',
+  'status' => 'catch-all',
+)  
+[2020-07-09 07:58:29] local.INFO: array (
+  'business_name' => 'Sullivans Steakhouse',
+  'email' => 'sullivans.anchorage@dfrg.com',
+  'status' => 'catch-all',
+)  
+[2020-07-09 07:58:30] local.INFO: array (
+  'business_name' => 'Dark Horse Coffee',
+  'email' => 'darkhorse@gci.net',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:32] local.INFO: array (
+  'business_name' => 'Crows Nest',
+  'email' => 'info@captaincook.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 07:58:32] local.INFO: array (
+  'business_name' => 'Darwins Theory',
+  'email' => 'bobk@alaska.org',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:33] local.INFO: array (
+  'business_name' => 'Pho Lena',
+  'email' => 'lena@pholena.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:35] local.INFO: array (
+  'business_name' => 'Kincaid Grill',
+  'email' => 'chef@kincaidgrill.com',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:36] local.INFO: array (
+  'business_name' => 'Middle Way Cafe',
+  'email' => 'info@middlewaycafe.com',
+  'status' => 'do_not_mail',
+)  
+[2020-07-09 07:58:37] local.INFO: array (
+  'business_name' => 'Jens Restaurant',
+  'email' => 'jens@alaska.net',
+  'status' => 'valid',
+)  
+[2020-07-09 07:58:37] local.INFO: array (
+  'business_name' => 'Bear Tooth Grill',
+  'email' => 'beartoothspecialevents@gmail.com',
+  'status' => 'valid',
+)  
+[2020-07-09 14:34:55] local.INFO: {"business_name":"Yup Dduk LA","email":"info@almanagementgroup.com","status":"do_not_mail"}  
+[2020-07-09 14:35:06] local.INFO: {"business_name":"EMC Seafood & Raw Bar","email":"info@emcseafood.com","status":"do_not_mail"}  
+[2020-07-09 14:35:07] local.INFO: {"business_name":"Quarters Korean BBQ","email":"quarterskbbq@gmail.com","status":"valid"}  
+[2020-07-09 14:35:08] local.INFO: {"business_name":"Pasta Sisters","email":"info@pastasisters.com","status":"do_not_mail"}  
+[2020-07-09 14:35:09] local.INFO: {"business_name":"Guss World Famous Fried Chicken","email":"communications@gusfriedchicken.com","status":"catch-all"}  
+[2020-07-09 14:44:04] local.INFO: {"business_name":"Providence","email":"info@providencela.com","status":"do_not_mail"}  
+[2020-07-09 14:44:06] local.INFO: {"business_name":"The Morrison","email":"info@themorrisonla.com","status":"do_not_mail"}  
+[2020-07-09 14:44:07] local.INFO: {"business_name":"Donut Friend","email":"info@donutfriend.com","status":"do_not_mail"}  
+[2020-07-09 14:59:30] local.INFO: {"business_name":"Perch","email":"info@perchla.com","status":"do_not_mail"}  
+[2020-07-09 14:59:30] local.INFO: {"business_name":"Howlin Rays","email":"hotchicken@howlinrays.com","status":"catch-all"}  
+[2020-07-09 14:59:32] local.INFO: {"business_name":"Philippe the Original","email":"customerservice@philippes.com","status":"do_not_mail"}  
+[2020-07-09 14:59:33] local.INFO: {"business_name":"KazuNori  | The Original Hand Roll Bar","email":"eat@sushinozawa.com","status":"valid"}  
+[2020-07-09 15:19:28] local.INFO: {"business_name":"Yup Dduk LA","email":"info@almanagementgroup.com","status":"do_not_mail"}  
+[2020-07-09 15:19:41] local.INFO: {"business_name":"EMC Seafood & Raw Bar","email":"info@emcseafood.com","status":"do_not_mail"}  
+[2020-07-09 15:19:41] local.INFO: {"business_name":"Quarters Korean BBQ","email":"quarterskbbq@gmail.com","status":"valid"}  
+[2020-07-09 15:19:43] local.INFO: {"business_name":"Pasta Sisters","email":"info@pastasisters.com","status":"do_not_mail"}  
+[2020-07-09 15:19:43] local.INFO: {"business_name":"Guss World Famous Fried Chicken","email":"communications@gusfriedchicken.com","status":"catch-all"}  
+[2020-07-09 15:19:44] local.INFO: {"business_name":"Churros Don Abel","email":"rosauribe0711@yahoo.com","status":"valid"}  
+[2020-07-09 15:19:44] local.INFO: {"business_name":"Sun Nong Dan","email":"sunnongdan606@gmail.com","status":"valid"}  
+[2020-07-09 15:40:46] local.INFO: {"business_name":"Donut Friend","email":"info@donutfriend.com","status":"do_not_mail"}  

@@ -1,0 +1,232 @@
+[2020-07-01 05:33:00] local.INFO: 90067  
+[2020-07-01 05:37:03] local.INFO: work  
+[2020-07-01 05:49:53] local.INFO: 90083  
+[2020-07-01 05:50:34] local.INFO: work  
+[2020-07-01 05:52:43] local.INFO: 90053  
+[2020-07-01 05:54:43] local.INFO: work  
+[2020-07-01 06:04:57] local.INFO: 90006  
+[2020-07-01 06:06:11] local.INFO: 90006  
+[2020-07-01 06:06:22] local.INFO: 90006  
+[2020-07-01 06:07:09] local.INFO: 90006  
+[2020-07-01 06:08:07] local.INFO: 90006  
+[2020-07-01 06:08:43] local.INFO: 90006  
+[2020-07-01 06:11:33] local.INFO: 90006  
+[2020-07-01 06:21:05] local.INFO: 90034  
+[2020-07-01 06:28:16] local.INFO: 90044  
+[2020-07-01 06:28:17] local.INFO: work  
+[2020-07-01 06:30:16] local.INFO: 90094  
+[2020-07-01 06:34:36] local.INFO: 90214  
+[2020-07-01 06:37:08] local.INFO: work  
+[2020-07-01 14:26:45] local.INFO: array (
+  'signature' => 
+  array (
+    'timestamp' => '1593613614',
+    'token' => '1979ae2c6a44e95f2619cc7e1c9dc4e722c87d757f763828bb',
+    'signature' => '6f3cd1f9ed9a5ccd9e2538ef2b2ca0dcef36dde0a28e6f189d655052645b09cc',
+  ),
+  'event-data' => 
+  array (
+    'tags' => 
+    array (
+    ),
+    'timestamp' => 1593613612.202393,
+    'storage' => 
+    array (
+      'url' => 'https://se.api.mailgun.net/v3/domains/mail.prepsponsor.com/messages/AgEFj0klAj0EcMNfRAlJPKDBLX1YLrlUZA==',
+      'key' => 'AgEFj0klAj0EcMNfRAlJPKDBLX1YLrlUZA==',
+    ),
+    'recipient-domain' => 'cybersify.tech',
+    'id' => 't4DOtoe7S1G633nILpnw0Q',
+    'campaigns' => 
+    array (
+    ),
+    'user-variables' => 
+    array (
+    ),
+    'flags' => 
+    array (
+      'is-routed' => false,
+      'is-authenticated' => true,
+      'is-system-test' => false,
+      'is-test-mode' => false,
+    ),
+    'log-level' => 'info',
+    'envelope' => 
+    array (
+      'sending-ip' => '69.72.43.7',
+      'sender' => 'ad_test@mail.prepsponsor.com',
+      'transport' => 'smtp',
+      'targets' => 'vikas@cybersify.tech',
+    ),
+    'message' => 
+    array (
+      'headers' => 
+      array (
+        'to' => 'ads2test631@mail.prepsponsor.com',
+        'message-id' => '20200701142649.1.A32E17D0C5D4A3D3@mail.prepsponsor.com',
+        'from' => 'ad_test@mail.prepsponsor.com',
+        'subject' => 'Regarding sponsorship!',
+      ),
+      'attachments' => 
+      array (
+      ),
+      'size' => 6898,
+    ),
+    'recipient' => 'vikas@cybersify.tech',
+    'event' => 'delivered',
+    'delivery-status' => 
+    array (
+      'tls' => true,
+      'mx-host' => 'aspmx.l.google.com',
+      'attempt-no' => 1,
+      'description' => NULL,
+      'session-seconds' => 1.611077070236206,
+      'utf8' => true,
+      'code' => 250,
+      'message' => 'OK',
+      'certificate-verified' => true,
+    ),
+  ),
+)  
+[2020-07-01 14:27:05] local.INFO: array (
+  'signature' => 
+  array (
+    'timestamp' => '1593613634',
+    'token' => 'e431fe71099ab947ed01ff4312600a777175f6cb8c6201df82',
+    'signature' => 'd08c33a3eaa099e611eddcb7560971d7656cb99a0cecc29100322de9a92c47e8',
+  ),
+  'event-data' => 
+  array (
+    'tags' => 
+    array (
+    ),
+    'timestamp' => 1593613627.454497,
+    'storage' => 
+    array (
+      'url' => 'https://se.api.mailgun.net/v3/domains/mail.prepsponsor.com/messages/AgEF5yRQDrDC03DuMIlMLoQMzhLhc_EBZA==',
+      'key' => 'AgEF5yRQDrDC03DuMIlMLoQMzhLhc_EBZA==',
+    ),
+    'recipient-domain' => 'gmail.com',
+    'id' => 'qN6ep5VFQW6u2o2v9ItMqQ',
+    'campaigns' => 
+    array (
+    ),
+    'user-variables' => 
+    array (
+    ),
+    'flags' => 
+    array (
+      'is-routed' => false,
+      'is-authenticated' => true,
+      'is-system-test' => false,
+      'is-test-mode' => false,
+    ),
+    'log-level' => 'info',
+    'envelope' => 
+    array (
+      'sending-ip' => '69.72.43.7',
+      'sender' => 'ad_test@mail.prepsponsor.com',
+      'transport' => 'smtp',
+      'targets' => 'vikashverma003@gmail.com',
+    ),
+    'message' => 
+    array (
+      'headers' => 
+      array (
+        'to' => 'ads1test631@mail.prepsponsor.com',
+        'message-id' => '20200701142648.1.DC9E0EA3B0A1E702@mail.prepsponsor.com',
+        'from' => 'ad_test@mail.prepsponsor.com',
+        'subject' => 'Regarding sponsorship!',
+      ),
+      'attachments' => 
+      array (
+      ),
+      'size' => 6898,
+    ),
+    'recipient' => 'vikashverma003@gmail.com',
+    'event' => 'delivered',
+    'delivery-status' => 
+    array (
+      'tls' => true,
+      'mx-host' => 'gmail-smtp-in.l.google.com',
+      'attempt-no' => 1,
+      'description' => NULL,
+      'session-seconds' => 8.722434997558594,
+      'utf8' => true,
+      'code' => 250,
+      'message' => 'OK',
+      'certificate-verified' => true,
+    ),
+  ),
+)  
+[2020-07-01 14:27:08] local.INFO: array (
+  'signature' => 
+  array (
+    'timestamp' => '1593613635',
+    'token' => '3f18cec6b6b80b97b98f1ece58367e8d0046062ffc9aaf5a72',
+    'signature' => '165da09422741b57e1fc6a7015662d87819c17fc30a1bf9da0c1b1ee8fe0450d',
+  ),
+  'event-data' => 
+  array (
+    'tags' => 
+    array (
+    ),
+    'timestamp' => 1593613633.333932,
+    'storage' => 
+    array (
+      'url' => 'https://se.api.mailgun.net/v3/domains/mail.prepsponsor.com/messages/AgEFaoUbGxDRcVaTWtxEhoIn1GmsShMtZA==',
+      'key' => 'AgEFaoUbGxDRcVaTWtxEhoIn1GmsShMtZA==',
+    ),
+    'recipient-domain' => 'gmail.com',
+    'id' => 'tquerxDiQLaWoq-SASgxTw',
+    'campaigns' => 
+    array (
+    ),
+    'user-variables' => 
+    array (
+    ),
+    'flags' => 
+    array (
+      'is-routed' => false,
+      'is-authenticated' => true,
+      'is-system-test' => false,
+      'is-test-mode' => false,
+    ),
+    'log-level' => 'info',
+    'envelope' => 
+    array (
+      'sending-ip' => '69.72.43.7',
+      'sender' => 'ad_test@mail.prepsponsor.com',
+      'transport' => 'smtp',
+      'targets' => 'fullstackdeveloper918@gmail.com',
+    ),
+    'message' => 
+    array (
+      'headers' => 
+      array (
+        'to' => 'adstest631@mail.prepsponsor.com',
+        'message-id' => '20200701142648.1.FB48FDF6B80BCB70@mail.prepsponsor.com',
+        'from' => 'ad_test@mail.prepsponsor.com',
+        'subject' => 'Regarding sponsorship!',
+      ),
+      'attachments' => 
+      array (
+      ),
+      'size' => 6897,
+    ),
+    'recipient' => 'fullstackdeveloper918@gmail.com',
+    'event' => 'delivered',
+    'delivery-status' => 
+    array (
+      'tls' => true,
+      'mx-host' => 'gmail-smtp-in.l.google.com',
+      'attempt-no' => 1,
+      'description' => NULL,
+      'session-seconds' => 6.648988962173462,
+      'utf8' => true,
+      'code' => 250,
+      'message' => 'OK',
+      'certificate-verified' => true,
+    ),
+  ),
+)  

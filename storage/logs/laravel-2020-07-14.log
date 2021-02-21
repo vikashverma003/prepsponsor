@@ -1,0 +1,71 @@
+[2020-07-14 04:22:21] local.INFO: array (
+  'signature' => 
+  array (
+    'timestamp' => '1594700552',
+    'token' => '924a45d64be031a7956dbe9a37869cf60201af0590764b3cac',
+    'signature' => '76ca7b3c3df4bdf982d9c172fc2dae60a0bfa8f74571c54ab7b1197bd92c7660',
+  ),
+  'event-data' => 
+  array (
+    'tags' => 
+    array (
+    ),
+    'timestamp' => 1594700551.919687,
+    'storage' => 
+    array (
+      'url' => 'https://se.api.mailgun.net/v3/domains/mail.prepsponsor.com/messages/AgEFrx55HayEFyKA5GRFIY3O7MzmixmpZA==',
+      'key' => 'AgEFrx55HayEFyKA5GRFIY3O7MzmixmpZA==',
+    ),
+    'recipient-domain' => 'gmail.com',
+    'id' => 'mq2ukar_S-qCYvKTpwQxRA',
+    'campaigns' => 
+    array (
+    ),
+    'user-variables' => 
+    array (
+    ),
+    'flags' => 
+    array (
+      'is-routed' => false,
+      'is-authenticated' => true,
+      'is-system-test' => false,
+      'is-test-mode' => false,
+    ),
+    'log-level' => 'info',
+    'envelope' => 
+    array (
+      'sending-ip' => '69.72.43.7',
+      'sender' => 'nbnnb@mail.prepsponsor.com',
+      'transport' => 'smtp',
+      'targets' => 'vikas.auspicioussoft@gmail.com',
+    ),
+    'message' => 
+    array (
+      'headers' => 
+      array (
+        'to' => 'test2658@mail.prepsponsor.com',
+        'message-id' => '20200714042230.1.0EBD182987CD9E3F@mail.prepsponsor.com',
+        'from' => 'nbnnb@mail.prepsponsor.com',
+        'subject' => 'Regarding sponsorship!',
+      ),
+      'attachments' => 
+      array (
+      ),
+      'size' => 6891,
+    ),
+    'recipient' => 'vikas.auspicioussoft@gmail.com',
+    'event' => 'delivered',
+    'delivery-status' => 
+    array (
+      'tls' => true,
+      'mx-host' => 'gmail-smtp-in.l.google.com',
+      'attempt-no' => 1,
+      'description' => NULL,
+      'session-seconds' => 0.4344949722290039,
+      'utf8' => true,
+      'code' => 250,
+      'message' => 'OK',
+      'certificate-verified' => true,
+    ),
+  ),
+)  

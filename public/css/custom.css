@@ -1,0 +1,79 @@
+table.post-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+      border: 1px solid #ddd;
+}
+
+table.post-table td, table.post-table th {
+	border : none;
+  text-align: left;
+  padding: 18px 11px;
+}
+
+table.post-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+table.post-table th {
+    background: #ef4153;
+    color: #fff;
+}
+table.post-table tr:hover.selected td, table.post-table tr:hover td {
+    background-color: #ffefd4;
+    cursor: pointer;
+}
+table.post-table td:nth-child(1) {
+    font-weight: bold;
+	width: 40%;
+}
+table.post-table td i {
+    margin-right: 5px;
+}
+table.post-table td img {
+    margin-right: 10px;
+	    max-width: 50px;
+    width: 100%;
+}
+.image-gallery {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+.image-gallery .inner-image img {
+    max-width: 100%;
+}
+.image-gallery .inner-image {
+    width: 33.33%;
+    padding: 10px;
+}
+.update-btn {
+    margin-top: 10px;
+}
+.edit-form-sec .form-group {
+    margin-bottom: 15px;
+}
+.edit-form-sec input[type="text"], .edit-form-sec select, .edit-form-sec input[type="file"] {
+    height: 40px;
+}
+
+
+/*Responsive*/
+@media only screen and (max-width: 575px) {
+  .info-table {
+    overflow-x: scroll;
+}
+table.post-table {
+    width: 578px;
+}
+.image-gallery .inner-image {
+    width: 50%;
+}
+}
+@media only screen and (max-width: 400px) {
+.image-gallery .inner-image {
+    width: 100%;
+}
+}
