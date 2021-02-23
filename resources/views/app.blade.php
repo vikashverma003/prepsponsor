@@ -27,10 +27,7 @@
         <div id="app"></div>
 
         <script src="{{ asset('/public/js/app.js') }}"></script>
-		<script
-type="text/javascript"
-src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC9LzvwwGQdZwyZ3zF8mK477oPtEPlt0Rk&libraries=places"
-></script> 
+		 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.1.0/react.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.1.0/react-dom.min.js"></script>
     </body>
